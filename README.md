@@ -10,7 +10,7 @@ Landing page of Futuristic Wireless Speaker
 - BEM methodology
 
 ## Preview
-[DEMO LINK](https://besconstantine.github.io/kickstarter/)
+[DEMO LINK](https://besconstantine.github.io/kickstarter_Landingpage/)
 
 ## Code
-[CODE LINK](https://github.com/besconstantine/kickstarter/tree/develop)
+[CODE LINK](https://github.com/besconstantine/kickstarter_Landingpage/tree/develop)
