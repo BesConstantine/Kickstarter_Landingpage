@@ -13,4 +13,4 @@ Landing page of Futuristic Wireless Speaker
 [DEMO LINK](https://besconstantine.github.io/kickstarter_Landingpage/)
 
 ## Code
-[CODE LINK](https://github.com/besconstantine/kickstarter_Landingpage/tree/develop)
+[CODE LINK](https://github.com/besconstantine/kickstarter_Landingpage/tree/developer)
